@@ -21,6 +21,7 @@
     "@uniswap/sdk-core": "^3.2.2",
     "@uniswap/v3-sdk": "^3.9.0",
     "dotenv": "^16.0.3",
-    "ethers": "^6.2.2"
+    "ethers": "^5.7.0" 
+   
   }
 }
